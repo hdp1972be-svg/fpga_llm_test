@@ -1,0 +1,8 @@
+VCD info: dumpfile dump.vcd opened for output.
+[+] SUCCESS: Dual-stream model en prompt gekoppeld.
+Tijd=15000ns | [STREAM] Woord-token en 512-bit weights parallel geladen.
+Tijd=25000ns | [STREAM] Woord-token en 512-bit weights parallel geladen.
+Tijd=35000ns | [STREAM] Woord-token en 512-bit weights parallel geladen.
+Tijd=35000ns | PCIe_VALID=1 | >>> CHIP PREDICTS NEXT TOKEN-ID:   1 <<<
+Tijd=45000ns | PCIe_VALID=1 | >>> CHIP PREDICTS NEXT TOKEN-ID:   3 <<<
+Tijd=55000ns | PCIe_VALID=0 | >>> CHIP PREDICTS NEXT TOKEN-ID:   3 <<<
